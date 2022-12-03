@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TL002 - Login Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0416f0d3-2619-45f6-b310-6ec96b9c896f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>15e5d94f-96cc-4c21-ad25-40e9039a83a0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'standard_user'</defaultValue>
+      <description></description>
+      <id>15e5d94f-96cc-4c21-ad25-40e9039a83a0</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>

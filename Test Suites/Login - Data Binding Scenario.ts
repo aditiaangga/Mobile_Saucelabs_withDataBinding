@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Login - Data Binding Scenario</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>07fc4b54-8d7e-449f-aac0-47a1b29459d5</testSuiteGuid>
+   <testCaseLink>
+      <guid>31d70681-2387-4387-a93a-a52417cf8211</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login/TL001 - Login - Data Binding Scenario</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>1b2c83a7-c187-4648-a8ac-0a676ecf6120</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data_Scenario_Login</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>1b2c83a7-c187-4648-a8ac-0a676ecf6120</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>description</value>
+         <variableId>bce5e029-767f-4917-ba73-f5ead964d484</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1b2c83a7-c187-4648-a8ac-0a676ecf6120</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>89b3ef95-bb47-4f9e-ae13-86cad66fa570</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1b2c83a7-c187-4648-a8ac-0a676ecf6120</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>36f2825c-e2b1-47e1-a3e4-4c528bf6773f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1b2c83a7-c187-4648-a8ac-0a676ecf6120</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>flag</value>
+         <variableId>9c844be7-92e9-49ed-91ad-8fc4910a1f3f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1b2c83a7-c187-4648-a8ac-0a676ecf6120</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>tag</value>
+         <variableId>7ff0dc72-e3b3-4f65-a6c2-3abe3ef8f4f6</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
